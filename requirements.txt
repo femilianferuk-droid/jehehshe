@@ -1,0 +1,6 @@
+aiogram==3.4.1
+pyrogram==2.0.106
+sqlalchemy==2.0.23
+cryptography==41.0.7
+langdetect==1.0.9
+TgCrypto==1.2.5
