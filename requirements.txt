@@ -1,0 +1,5 @@
+aiogram==3.4.1
+aiocryptopay==1.3
+python-dotenv==1.0.0
+aiohttp==3.9.3
+pydantic==2.6.1
